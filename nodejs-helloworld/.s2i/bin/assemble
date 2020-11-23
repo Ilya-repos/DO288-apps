@@ -1,5 +1,6 @@
 #!/bin/bash
 echo START ! ASSEMBLE !
 exec /usr/libexec/s2i/assemble
+echo stop
 echo STOP ! ASSEMBLE !
 
